@@ -1,11 +1,18 @@
 # IETF108-Side-Meeting-APN
 The APN Side Meeting Agenda @IETF108
+
 Chairs: Zhenbin Li, Daniel King
+
 12:30-14:00 UTC, Thursday, 2020-07-30
+
 Number of people expected to attend: 100
+
 Length of session: 1.5 hours
+
 Webex: link here
+
 Tentative Agenda
+
 •	Introduction & Agenda Bashing (5 mins)
 •	Attempts in IETF History (15 mins)
   •	What attempts (SPUD and PLUS BoFs, PANRG)? Why failed?
