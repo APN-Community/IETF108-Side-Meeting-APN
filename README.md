@@ -23,13 +23,13 @@ Tentative Agenda
 
   •	Operators present their use cases to make clear that they have the Requirements on Application-awareness in their Networks
   
-  •	Bell Canada – Service/Application aware
+3.1	Bell Canada – Service/Application aware
   
-  •	Telefonica – CDN
+3.2	Telefonica – CDN
   
-  •	China Mobile – MEC
+3.3	China Mobile – MEC
   
-  •	China Unicom – Game Acceleration
+3.4	China Unicom – Game Acceleration
 
 4	APN Framework (5 mins)
 
@@ -51,7 +51,8 @@ Tentative Agenda
 
 7	Conclusion – the way forward. (5 mins)
 
-Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
+
+# Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
 
 •	Mailing List: - None assigned as yet
 
