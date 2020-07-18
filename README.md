@@ -50,9 +50,7 @@ Webex: link here
 
 7	Conclusion – the way forward. (5 mins)
 
-
-
-#	Mailing List: - None assigned as yet
+•	Mailing List: - None assigned as yet
 
 #	Relevant drafts and relevant materials: 
 
