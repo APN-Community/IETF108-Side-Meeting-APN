@@ -16,7 +16,7 @@ Webex: link here
 
 2	Attempts in IETF History (15 mins)
 
-  •	What attempts (SPUD and PLUS BoFs, PANRG)? Why failed?
+  •	What attempts (SPUD and PLUS BoFs)? Why failed?
 
 3	Requirements on Application-awareness in Networks (20 mins, 5 mins each)
 
