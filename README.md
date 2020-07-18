@@ -1,5 +1,4 @@
-# IETF108-Side-Meeting-APN
-The APN Side Meeting Agenda @IETF108
+# The APN Side Meeting Agenda @IETF108
 
 Chairs: Zhenbin Li, Daniel King
 
@@ -52,11 +51,10 @@ Tentative Agenda
 7	Conclusion – the way forward. (5 mins)
 
 
-# Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
 
-•	Mailing List: - None assigned as yet
+#	Mailing List: - None assigned as yet
 
-•	Relevant drafts and relevant materials: 
+#	Relevant drafts and relevant materials: 
 
 •	Problem statement & Use cases: 
   
