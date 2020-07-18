@@ -1,4 +1,4 @@
-# The APN Side Meeting Agenda @IETF108
+# The APN Side Meeting @IETF108
 
 Chairs: Zhenbin Li, Daniel King
 
@@ -10,7 +10,7 @@ Length of session: 1.5 hours
 
 Webex: link here
 
-Tentative Agenda
+# Tentative Agenda
 
 1	Introduction & Agenda Bashing (5 mins)
 
