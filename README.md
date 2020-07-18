@@ -54,7 +54,7 @@ Webex: link here
 
 #	Relevant drafts and relevant materials: 
 
-•	Problem statement & Use cases: 
+>	Problem statement & Use cases: 
   
   •	https://tools.ietf.org/html/draft-li-apn-problem-statement-usecases-00
   
@@ -62,11 +62,11 @@ Webex: link here
   
   •	https://tools.ietf.org/html/draft-zhang-apn-acceleration-usecase-00
 
-•	Framework
+>	Framework
  
   •	https://tools.ietf.org/html/draft-li-apn-framework-00
 
-•	Requirements on Application-awareness in Networks
+>	Requirements on Application-awareness in Networks
 
   •	https://tools.ietf.org/html/draft-yiakoumis-network-tokens-01
 
@@ -74,7 +74,7 @@ Webex: link here
 
   •	https://tools.ietf.org/html/draft-li-6man-app-aware-ipv6-network-00
 
-•	APN Community including Information about the APN6 Side meeting @IETF105
+>	APN Community including Information about the APN6 Side meeting @IETF105
 
   •	https://github.com/APN-Community
   
