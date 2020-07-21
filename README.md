@@ -4,8 +4,6 @@ Chairs: Zhenbin Li, Daniel King
 
 12:30-14:00 UTC, Thursday, 2020-07-30
 
-Length of session: 1.5 hours
-
 Webex: link here
 
 Etherpad URL: https://etherpad.wikimedia.org/p/v108-apn-side-meeting
