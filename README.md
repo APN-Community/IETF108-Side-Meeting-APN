@@ -10,6 +10,8 @@ Length of session: 1.5 hours
 
 Webex: link here
 
+Etherpad URL: https://etherpad.wikimedia.org/p/v108-apn-side-meeting
+
 # Tentative Agenda
 
 1	Introduction & Agenda Bashing (5 mins)
