@@ -4,8 +4,6 @@ Chairs: Zhenbin Li, Daniel King
 
 12:30-14:00 UTC, Thursday, 2020-07-30
 
-Number of people expected to attend: 100
-
 Length of session: 1.5 hours
 
 Webex: link here
