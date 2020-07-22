@@ -14,7 +14,7 @@ Etherpad URL: https://etherpad.wikimedia.org/p/v108-apn-side-meeting
 
 2	Attempts in IETF History (15 mins)
 
-  •	What attempts (SPUD and PLUS BoFs)? Why failed?
+  •	What attempts (SPUD and PLUS BoFs)? What lessons learned?
 
 3	Requirements on Application-awareness in Networks (20 mins, 5 mins each)
 
