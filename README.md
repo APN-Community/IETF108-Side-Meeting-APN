@@ -4,7 +4,7 @@ Chairs: Zhenbin Li, Daniel King
 
 12:30-14:00 UTC, Thursday, 2020-07-30
 
-Webex: Please find in Etherpad URL below
+Webex: https://futurewei.my.webex.com/futurewei.my/j.php?MTID=me73e1526f286577bd58c9ad6016a4351
 
 Etherpad URL: https://etherpad.wikimedia.org/p/v108-apn-side-meeting
 
