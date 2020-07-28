@@ -12,7 +12,7 @@ Etherpad URL: https://etherpad.wikimedia.org/p/v108-apn-side-meeting
 
 1	Introduction & Agenda Bashing (5 mins)
 
-2	Attempts in IETF History (15 mins)
+2	Attempts in IETF History [Briam Trammell] (15 mins)
 
   •	What attempts (SPUD and PLUS BoFs)? What lessons learned?
 
@@ -20,31 +20,31 @@ Etherpad URL: https://etherpad.wikimedia.org/p/v108-apn-side-meeting
 
   •	Operators present their use cases to make clear that they have the Requirements on Application-awareness in their Networks
   
-3.1	Bell Canada – Service/Application aware
+3.1	Service/Application aware [Daniel Bernier, Bell Canada] (5 mins)
   
-3.2	Telefonica – CDN
+3.2	CDN [Luis Murillo, Telefonica] (5 mins)
   
-3.3	China Mobile – MEC
+3.3	MEC [Peng Liu, China Mobile] (5mins)
   
-3.4	China Unicom – Game Acceleration
+3.4	Game Acceleration [Shuai Zhang, China Unicom] (5 mins)
 
-4	APN Framework (5 mins)
+4	APN Framework [Shuping Peng, Huawei] (5 mins)
 
   •	Introduce APN Framework and the available Demo, Hackathon, INFOCOM, etc.
 
 5	Acquisition, Encapsulation and Conveying of Application-related Information (30 mins) 
 
-  •	Network Tokens
+5.1	Network Tokens [Yiannis Yiakoumis, Selfie Networks] (10mins)
   
-  •	FAST 
+5.2 FAST [Tom Herbert, Intel] (10mins)
   
-  •	APN6
+5.3 APN6 [Xing Li, Tsinghua University] (10mins)
 
 6	Discussions & Clarifications – Collecting views from the IETF community (10 mins)
 
-  •	Whether it will bring privacy issue? If yes, how to overcome?
+6.1	Whether it will bring privacy issue? If yes, how to overcome?
   
-  •	Whether it will bring security issue? If yes, how to overcome?
+6.2	Whether it will bring security issue? If yes, how to overcome?
 
 7	Conclusion – the way forward. (5 mins)
 
