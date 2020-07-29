@@ -12,7 +12,7 @@ Etherpad URL: https://etherpad.wikimedia.org/p/v108-apn-side-meeting
 
 1	Introduction & Agenda Bashing (5 mins)
 
-2	Attempts in IETF History [Briam Trammell] (15 mins)
+2	Attempts in IETF History [Brian Trammell] (15 mins)
 
   •	What attempts (SPUD and PLUS BoFs)? What lessons learned?
 
