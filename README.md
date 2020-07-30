@@ -22,7 +22,7 @@ Etherpad URL: https://etherpad.wikimedia.org/p/v108-apn-side-meeting
   
 3.1	 Service/Application aware [Daniel Bernier, Bell Canada] (5 mins)
   
-3.2	 CDN [Luis Murillo, Telefonica] (5 mins)
+3.2	 CDN [Luis Miguel Contreras Murillo, Telefonica] (5 mins)
   
 3.3  MEC [Peng Liu, China Mobile] (5mins)
   
